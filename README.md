@@ -1,7 +1,7 @@
-Social Media Sentiment Analysis Project
-This project analyzes sentiment in social media to understand public opinion on various topics and brands. It uses the 'Twitter Entity Sentiment Analysis' dataset from Kaggle, focusing on demographics like UserID, Gender, Interests, and Location.
+Decision Tree Classifier for Customer Purchase Prediction
+This project uses a decision tree classifier to predict whether a customer will purchase a product or service based on demographic and behavioral data. The analysis leverages the Bank Marketing dataset from the UCI Machine Learning Repository.
 
 Highlights
-Data Cleaning
-Sentiment Analysis with NLP
-Visualizations of Findings
+Data Preprocessing
+Model Training and Evaluation
+Feature Importance Analysis
